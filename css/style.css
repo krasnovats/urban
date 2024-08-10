@@ -543,13 +543,13 @@ body.lock {
 
 @media (max-width: 770px) {
   .main_section_img {
-    height: 477px;
+    height: 565px;
   }
 }
 
 @media (max-width: 390px) {
   .main_section_img {
-    height: 477px;
+    height: 230px;
   }
 }
 
